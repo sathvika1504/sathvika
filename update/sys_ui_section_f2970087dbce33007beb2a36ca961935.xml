@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f2970087dbce33007beb2a36ca961935" sys_domain="global" table="x_363612_agritech_customer_request" version="3" view="Customer_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>be970087dbce33007beb2a36ca961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>32970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>address</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>b2970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>36970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>b6970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>3a970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>e_mail</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>ba970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organic_inorganic</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>3e970087dbce33007beb2a36ca961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_product</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>72970087dbce33007beb2a36ca961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_seed</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>f2970087dbce33007beb2a36ca961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>weight</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_id>76970087dbce33007beb2a36ca961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_363612_agritech_customer_request" sys_domain="global" view="b6970087dbce33007beb2a36ca961932">f2970087dbce33007beb2a36ca961935</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_363612_agritech_customer_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:07:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2970087dbce33007beb2a36ca961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_363612_agritech_customer_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Agritech" source="x_363612_agritech">b8b48cc3dbce33007beb2a36ca961951</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agritech">b8b48cc3dbce33007beb2a36ca961951</sys_scope>
+            <sys_update_name>sys_ui_section_f2970087dbce33007beb2a36ca961935</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:07:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Customer view" name="Customer_view">b6970087dbce33007beb2a36ca961932</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

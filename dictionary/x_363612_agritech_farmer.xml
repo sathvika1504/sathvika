@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Farmer" max_length="40" name="x_363612_agritech_farmer" type="collection">
+        <element label="Address" max_length="40" name="address" type="string"/>
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Organic/Inorganic" max_length="40" name="organic_inorganic" type="string"/>
+        <element label="Type of product" max_length="40" name="type_of_product" type="string"/>
+        <element label="Type of seed" max_length="40" name="type_of_seed" type="string"/>
+        <element label="Upload photo" max_length="40" name="upload_photo" type="user_image"/>
+        <element label="Weight" max_length="40" name="weight" type="string"/>
+    </element>
+</database>
